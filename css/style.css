@@ -1,0 +1,78 @@
+/*  
+CUSTOM SITE STYLES
+*/
+
+	/*  
+	FONTS & ICONS
+	*/
+
+		/*  
+		HOME ICON
+		*/
+		
+		.home a:before {
+			left:1px;
+			border-style:solid;
+			border-color:#fff;
+			border-width:8px 7px;
+			border-bottom-color:#c55500;
+			margin-top:-16px;
+			background:#fff;
+		}
+
+		.home a:after {
+			left:3px;
+			width:2px;
+			height:4px;
+			border-style:solid;
+			border-color:#c55500 #c55500 transparent;
+			border-width:3px 4px 0;
+			margin-top:0;
+			background:#fff;
+		}
+
+		.home a:hover:before,
+		.home a:focus:before,
+		.home a:active:before {
+			border-bottom-color:#730800;
+			background:#;
+		}
+
+		.home a:hover:after,
+		.home a:focus:after,
+		.home a:active:after {
+			border-color:#730800 #730800 transparent;
+		}
+
+
+
+	h1 {
+		font-size: 2.25rem;
+		font-family: "trajan-pro-3", serif;
+		font-style: normal;
+		font-weight: 300;
+	  }
+
+	.logo {
+		background: transparent;
+		padding: 2rem;
+	  }
+
+	.panel {
+		border-radius: 8px;
+		border-width: 2px;
+		border-color: steelblue;
+		background: aliceblue;
+		
+		
+	}
+	  
+	 .row .panel.callout {
+		border: none;
+		background: #BCE4FC;
+	}
+
+	dd a.active-tab:after {
+		content: ">>";
+		font-size: 1.5rem;
+	}
