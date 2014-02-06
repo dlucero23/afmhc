@@ -72,7 +72,7 @@ CUSTOM SITE STYLES
 		background: #BCE4FC;
 	}
 
-	dd a.active-tab:after {
+	/*dd a.active-tab:after {
 		content: ">>";
 		font-size: 1.5rem;
-	}
+	}*/
