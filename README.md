@@ -1,10 +1,4 @@
-AFMHC
-=====
-(re)Design of Albuquerque Family Mental Health Clinic's website.
-
-
-
-# Albuquerque Family Mental Health Clinic
+# AFMHC -- Albuquerque Family Mental Health Clinic
 ## Website (re)Design Project
 
 
