@@ -1,4 +1,4 @@
 AFMHC
 =====
 
-This is the website for the Albuquerque Family Mental Health Clinic
+(re)Design of Albuquerque Family Mental Health Clinic's website.
