@@ -16,7 +16,7 @@ This project is an attempt at bringing all of these ideas together cohesively in
 To see what the project looks like so far, [see this link](http://siamtek.com/afmhc).
 
 **The Github Project Page**
-To see the overview page for this project, [see this link](dlucero23.github.io/afmhc).
+To see the overview page for this project, [see this link](http://dlucero23.github.io/afmhc).
 
 ### Instructions for Commits
 It's extremely important to label each commit and include short descriptions.  
