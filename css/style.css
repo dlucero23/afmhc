@@ -62,17 +62,18 @@ CUSTOM SITE STYLES
 		border-radius: 8px;
 		border-width: 2px;
 		border-color: steelblue;
-		background: aliceblue;
+		background: aliceblue !important;
 		
 		
 	}
 	  
 	 .row .panel.callout {
 		border: none;
-		background: #BCE4FC;
+		background: #BCE4FC !important;
 	}
 
 	/*dd a.active-tab:after {
 		content: ">>";
 		font-size: 1.5rem;
 	}*/
+	
